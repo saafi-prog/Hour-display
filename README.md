@@ -1,2 +1,1 @@
-# affichage-heure
 # Hour-display
